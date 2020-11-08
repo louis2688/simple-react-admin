@@ -1,0 +1,46 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "Post One",
+      "body": "This is the post Body",
+      "publishedAt": "2020-10-10"
+    },
+    {
+      "id": "2",
+      "title": "Post Two",
+      "body": "This is the post Body 21",
+      "publishedAt": "10-01-2020"
+    },
+    {
+      "id": "3",
+      "title": "Post Three",
+      "body": "This is the post Body",
+      "publishedAt": "10-01-2020"
+    },
+    {
+      "id": "4",
+      "title": "Post Four",
+      "body": "This is the post Body",
+      "publishedAt": "10-01-2020"
+    },
+    {
+      "title": "Post five",
+      "body": "body for post five",
+      "publishedAt": "2020-11-04",
+      "id": "P4AwE0F"
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "name": "John Doe",
+      "email": "john@example.com"
+    },
+    {
+      "name": "louis2",
+      "email": "louismadrigal26@gmail.com",
+      "id": "VGnv3Fg"
+    }
+  ]
+}
